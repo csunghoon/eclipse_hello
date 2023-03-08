@@ -8,6 +8,8 @@ public class HelloWorld {
 		
 		System.out.println("World's End Dancehall");
 		
+		System.out.println("Earth's End Dancehall");
+		
 	}
 
 }
